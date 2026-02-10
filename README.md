@@ -1,5 +1,7 @@
 # ⚡ AX88772B on Windows 98: Teaching an Old Driver New Tricks
 
+Read the original article here: https://bitlog.it/20260208_ax88772b_on_windows_98_teaching_an_old_driver_new_tricks.html
+
 💾 For retro enthusiasts, sometimes life is hard.
 
 Imagine for a moment, you've got your whole new retro PC build just about set up: Windows 98 SE has finally installed after six retries, and your meticulously collected Win9x drivers are all rigged in place without any more dreaded Blue Screens Of Death. You plug in your network cable, and... nothing. Tumbleweeds.
